@@ -1,8 +1,8 @@
-# Research Artifact: A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects
+# Replication Package: A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects
 
 [https://github.com/NAIST-SE/TDA_Communication_Channels](https://github.com/NAIST-SE/TDA_Communication_Channels)
 
-This is a research artifact for the paper **A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects**.
+This is a replication package for the paper **A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects**.
 This artifact is a repository consisting of (a) dataset including (i) 3 files related to RQ1 with the information of Repository Fork?, Repository Forks Count, Repository Issues enabled?, Repository Wiki enabled?, Repository Pages enabled?, Repository Open Issues Count, Repository Readme filename, Repository Changelog filename, Repository Contributing guidelines filename, Repository License filename, Repository Code of Conduct filename, Repository Security Threat Model filename, Repository Security Audit filename, Platform; 
 (ii) 7 files related to RQ2 including the information of Repository Fork?, Repository Forks Count, Repository Issues enabled?, Repository Wiki enabled?, Repository Pages enabled?, Repository Open Issues Count, Repository Readme filename, Repository Changelog filename, Repository Contributing guidelines filename, Repository License filename, Repository Code of Conduct filename, Repository Security Threat Model filename, Repository Security Audit filename, Platform, Repository Stars Count;
 (b) figure contains all figures of topological data analysis; and 
