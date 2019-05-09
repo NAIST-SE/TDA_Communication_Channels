@@ -4,14 +4,26 @@
 
 This is a research artifact for the paper **A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects**.
 This artifact is a repository consisting of (a) code; python code used in the research; and 
-(b) dataset including (i) 3 files related to RQ1 with the information of Repository Fork?,Repository Forks Count,Repository Issues enabled?,Repository Wiki enabled?,Repository Pages enabled?,Repository Open Issues Count,Repository Readme filename,Repository Changelog filename,Repository Contributing guidelines filename,Repository License filename,Repository Code of Conduct filename,Repository Security Threat Model filename,Repository Security Audit filename,Platform
-; (ii) 7 files related to RQ2 including the information of Repository Fork?,Repository Forks Count,Repository Issues enabled?,Repository Wiki enabled?,Repository Pages enabled?,Repository Open Issues Count,Repository Readme filename,Repository Changelog filename,Repository Contributing guidelines filename,Repository License filename,Repository Code of Conduct filename,Repository Security Threat Model filename,Repository Security Audit filename,Platform,Repository Stars Count. 
+(b) dataset including (i) 3 files related to RQ1 with the information of Repository Fork?, Repository Forks Count, Repository Issues enabled?, Repository Wiki enabled?, Repository Pages enabled?, Repository Open Issues Count, Repository Readme filename, Repository Changelog filename, Repository Contributing guidelines filename, Repository License filename, Repository Code of Conduct filename, Repository Security Threat Model filename, Repository Security Audit filename, Platform; 
+(ii) 7 files related to RQ2 including the information of Repository Fork?, Repository Forks Count, Repository Issues enabled?, Repository Wiki enabled?, Repository Pages enabled?, Repository Open Issues Count, Repository Readme filename, Repository Changelog filename, Repository Contributing guidelines filename, Repository License filename, Repository Code of Conduct filename, Repository Security Threat Model filename, Repository Security Audit filename, Platform, Repository Stars Count. 
+
+
+## Abstract
+With over 28 million developers, success of GitHub collaborative platform is highlighted through the abundance of communication channels among contemporary software projects. 
+Knowledge is broken into two forms and its transfer (through communication channels) can be described as externalization or combination by the SECI model of knowledge transfer of an organization.
+Over the years, such platforms have revolutionized the way developers work, introducing new channels to share knowledge in the form of pull requests, issues and wikis. 
+It is unclear how these channels capture and share knowledge.
+In this research, our goal is to analyze how communication channels share knowledge over projects.
+First, using the SECI model, we are able to map how knowledge is transferred through the communication channels.
+Then in a large-scale topology analysis of seven library package platforms, we extracted insights of how knowledge is shared by different library ecosystems within GitHub. 
+Using topology data analysis, we show that (i) channels tend to evolve over time and (ii) library ecosystems consistently have channels to capture new knowledge (i.e., externalization).
+Results from the study aid in understanding what channels are important sources of knowledge, also with insights into how projects can attract and sustain developer contributions.
 
 
 ## Contents
-* `code` - python code used in the study. 
+* `script` - python code run on jupyter notebook. 
 * `dataset` - a directory of the dataset in csv format.
-* `figures` - figures of the resulted TDA.
+* `figure` - figures of the resulted TDA.
 * `README.md` - this file
 
 
