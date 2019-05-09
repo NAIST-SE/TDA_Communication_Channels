@@ -21,9 +21,9 @@ Results from the study aid in understanding what channels are important sources 
 
 
 ## Contents
-* `script` - python code run on jupyter notebook. 
 * `dataset` - a directory of the dataset in csv format.
 * `figure` - figures of the resulted TDA.
+* `script` - python code run on jupyter notebook.
 * `README.md` - this file
 
 
