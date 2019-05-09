@@ -28,12 +28,12 @@ Results from the study aid in understanding what channels are important sources 
 
 
 ## Authors
-* Jirateep Tantisuwankul
-* [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
-* [Raula Gaikovina Kula](https://raux.github.io/)
-* [Hideaki Hata](https://hideakihata.github.io/)
-* Arnon Rungsawang
-* Pattara Leelaprute
-* Kenichi Matsumoto
+* Jirateep Tantisuwankul - Kasetsart University, Thailand
+* [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/) - Nara Institute of Science and Technology, Japan
+* [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology, Japan
+* [Hideaki Hata](https://hideakihata.github.io/) - Nara Institute of Science and Technology, Japan
+* Arnon Rungsawang - Kasetsart University, Thailand
+* Pattara Leelaprute - Kasetsart University, Thailand
+* Kenichi Matsumoto - Nara Institute of Science and Technology, Japan
 
 Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
