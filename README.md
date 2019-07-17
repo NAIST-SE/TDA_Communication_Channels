@@ -22,7 +22,7 @@ Results from the study aid in understanding what channels are important sources 
 
 
 ## Contents
-* `dataset` - a directory of the dataset in csv format. Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA.
+* `dataset` - a directory of the dataset in csv format. Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA. Downloadable file is available [here](https://pypi.org/project/knotter/)
 * `figure` - figures of the resulted TDA.
 * `script` - python code run on jupyter notebook.
 * `README.md` - this file
