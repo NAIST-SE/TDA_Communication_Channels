@@ -22,11 +22,25 @@ Results from the study aid in understanding what channels are important sources 
 
 
 ## Contents
-* `dataset` - a directory of data in csv format. The source file can be downloaded from [libraries.io](https://zenodo.org/record/1196312/files/Libraries.io-open-data-1.2.0.tar.gz). Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA from the results. The tool can be downloaded [here](https://pypi.org/project/knotter/).
+* `dataset` - a directory of data in csv format.
 * `figure` - figures of the resulted TDA.
 * `script` - python code run on jupyter notebook.
 * `README.md` - this file
 
+## How to run
+1. Clone this repository into your userhome folder in the system :
+   ```
+   git clone https://github.com/NAIST-SE/TDA_Communication_Channels.git
+   ```
+   output: `/Users/<yourusername>/TDA_Communication_Channels/`
+   
+2. To get the raw data, download the source file from [libraries.io](https://zenodo.org/record/1196312/files/Libraries.io-open-data-1.2.0.tar.gz). Extract the file.
+
+3. Copy file `projects_with_repository_fields-1.2.0-2018-03-12.csv` from the extracted directory `Libraries.io-open-data-1.2.0`, paste it into directory `TDA_Communication_Channels/dataset/`.
+
+4. Open `Jupyter Notebook`, run script `TDA_Communication_Channels/scripts/preprocessing_libraries_io.ipynb`. The results (csv files) will be created in directory `dataset`.
+
+5. Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA from the results. The tool can be downloaded [here](https://pypi.org/project/knotter/).
 
 ## Authors
 * Jirateep Tantisuwankul - Kasetsart University, Thailand
