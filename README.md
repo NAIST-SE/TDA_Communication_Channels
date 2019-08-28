@@ -22,7 +22,7 @@ Results from the study aid in understanding what channels are important sources 
 
 
 ## Contents
-* `dataset` - a directory of data in csv format.
+* `dataset` - a directory of data in a `CSV` format.
 * `figure` - figures of the resulted TDA.
 * `script` - python code run on jupyter notebook.
 * `README.md` - this file
