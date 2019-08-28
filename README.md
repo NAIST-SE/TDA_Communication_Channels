@@ -10,15 +10,15 @@ This artifact is a repository consisting of (a) dataset including (i) 3 files re
 
 
 ## Abstract
-With over 28 million developers, success of GitHub collaborative platform is highlighted through the abundance of communication channels among contemporary software projects. 
-Knowledge is broken into two forms and its transfer (through communication channels) can be described as externalization or combination by the SECI model of knowledge transfer of an organization.
-Over the years, such platforms have revolutionized the way developers work, introducing new channels to share knowledge in the form of pull requests, issues and wikis. 
+With over 28 million developers, success of the GitHub collaborative platform is highlighted through an abundance of communication channels among contemporary software projects. 
+Knowledge is broken into two forms and its sharing (through communication channels) can be described as externalization or combination by the SECI model.
+Such platforms have revolutionized the way developers work, introducing new channels to share knowledge in the form of pull requests, issues and wikis. 
 It is unclear how these channels capture and share knowledge.
-In this research, our goal is to analyze how communication channels share knowledge over projects.
-First, using the SECI model, we are able to map how knowledge is transferred through the communication channels.
-Then in a large-scale topology analysis of seven library package platforms, we extracted insights of how knowledge is shared by different library ecosystems within GitHub. 
-Using topology data analysis, we show that (i) channels tend to evolve over time and (ii) library ecosystems consistently have channels to capture new knowledge (i.e., externalization).
-Results from the study aid in understanding what channels are important sources of knowledge, also with insights into how projects can attract and sustain developer contributions.
+In this research, our goal is to analyze these communication channels in GitHub.
+First, using the SECI model, we are able to map how knowledge is shared through the communication channels.
+Then in a large-scale  topology analysis  of seven library package projects (i.e., involving over 70 thousand projects), we extracted insights of the different communication channels within GitHub. 
+Using two research questions, we explored the evolution of the channels and adoption of channels by both popular and unpopular library package projects. 
+Results show that (i) contemporary GitHub Projects tend to adopt multiple communication channels, (ii) communication channels change over time and (iii) communication channels are used to both capture new knowledge (i.e.,  externalization) and  updating existing knowledge (i.e., combination).
 
 
 ## Contents
