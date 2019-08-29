@@ -34,13 +34,32 @@ Results show that (i) contemporary GitHub Projects tend to adopt multiple commun
    ```
    output: `/Users/<yourusername>/TDA_Communication_Channels/`
    
-2. To get the raw data, download the source file from [libraries.io](https://zenodo.org/record/1196312/files/Libraries.io-open-data-1.2.0.tar.gz). Extract the file.
+2. To get the raw dataset, download the source file from [libraries.io](https://zenodo.org/record/1196312/files/Libraries.io-open-data-1.2.0.tar.gz). Extract the file.
 
 3. Copy file `projects_with_repository_fields-1.2.0-2018-03-12.csv` from the extracted directory `Libraries.io-open-data-1.2.0`, paste it into directory `TDA_Communication_Channels/dataset/`.
 
 4. Open `Jupyter Notebook`, run script `TDA_Communication_Channels/scripts/preprocessing_libraries_io.ipynb`. The results (csv files) will be created in directory `dataset`.
 
 5. Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA from the results. The tool can be downloaded [here](https://pypi.org/project/knotter/).
+
+## Documentations
+The information captured from the raw dataset:
+
+| Attributes                                    | Related Channels         | 
+| ----------------------------------------------|--------------------------|
+| Repository Fork?                              | Fork                     |
+| Repository Forks Count                        | # of Forks               |
+| Repository Issues enabled?                    | Issue Tracker            |
+| Repository Wiki enabled?                      | Wiki                     |
+| Repository Pages enabled?                     | GitHub Pages             |
+| Repository Open Issues Count                  | # of Open Issues         |
+| Repository Readme filename                    | Readme                   |
+| Repository Changelog filename                 | Changelog                |
+| Repository Contributing guidelines filename   | Contributing Guidelines  |
+| Repository License filename                   | License                  |
+| Repository Code of Conduct filename           | Code of Conduct          |
+| Repository Security Threat Model filename     | Security Threat Model    |
+| Repository Security Audit filename            | Security Audit           |
 
 ## Authors
 * Jirateep Tantisuwankul - Kasetsart University, Thailand
