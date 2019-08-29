@@ -43,23 +43,23 @@ Results show that (i) contemporary GitHub Projects tend to adopt multiple commun
 5. Use [Knotter](https://github.com/rosinality/knotter) tool to generate the TDA from the results. The tool can be downloaded [here](https://pypi.org/project/knotter/).
 
 ## Documentations
-The information captured from the raw dataset:
+The information captured from the package of `Projects with related Repository fields`:
 
-| Attributes                                    | Related Channels         | 
-| ----------------------------------------------|--------------------------|
-| Repository Fork?                              | Fork                     |
-| Repository Forks Count                        | # of Forks               |
-| Repository Issues enabled?                    | Issue Tracker            |
-| Repository Wiki enabled?                      | Wiki                     |
-| Repository Pages enabled?                     | GitHub Pages             |
-| Repository Open Issues Count                  | # of Open Issues         |
-| Repository Readme filename                    | Readme                   |
-| Repository Changelog filename                 | Changelog                |
-| Repository Contributing guidelines filename   | Contributing Guidelines  |
-| Repository License filename                   | License                  |
-| Repository Code of Conduct filename           | Code of Conduct          |
-| Repository Security Threat Model filename     | Security Threat Model    |
-| Repository Security Audit filename            | Security Audit           |
+| No | Attributes                                    | Related Channels         | 
+|----|-----------------------------------------------|--------------------------|
+|  1 | Repository Fork?                              | Fork                     |
+|  2 | Repository Forks Count                        | # of Forks               |
+|  3 | Repository Issues enabled?                    | Issue Tracker            |
+|  4 | Repository Wiki enabled?                      | Wiki                     |
+|  5 | Repository Pages enabled?                     | GitHub Pages             |
+|  6 | Repository Open Issues Count                  | # of Open Issues         |
+|  7 | Repository Readme filename                    | Readme                   |
+|  8 | Repository Changelog filename                 | Changelog                |
+|  9 | Repository Contributing guidelines filename   | Contributing Guidelines  |
+| 10 | Repository License filename                   | License                  |
+| 11 | Repository Code of Conduct filename           | Code of Conduct          |
+| 12 | Repository Security Threat Model filename     | Security Threat Model    |
+| 13 | Repository Security Audit filename            | Security Audit           |
 
 ## Authors
 * Jirateep Tantisuwankul - Kasetsart University, Thailand
