@@ -45,21 +45,21 @@ Results show that (i) contemporary GitHub Projects tend to adopt multiple commun
 ## Documentations
 The information captured from the package of `Projects with related Repository fields`:
 
-| No | Attributes                                    | Related Channels         | 
-|---:|-----------------------------------------------|--------------------------|
-|  1 | Repository Fork?                              | Fork                     |
-|  2 | Repository Forks Count                        | # of Forks               |
-|  3 | Repository Issues enabled?                    | Issue Tracker            |
-|  4 | Repository Wiki enabled?                      | Wiki                     |
-|  5 | Repository Pages enabled?                     | GitHub Pages             |
-|  6 | Repository Open Issues Count                  | # of Open Issues         |
-|  7 | Repository Readme filename                    | Readme                   |
-|  8 | Repository Changelog filename                 | Changelog                |
-|  9 | Repository Contributing guidelines filename   | Contributing Guidelines  |
-| 10 | Repository License filename                   | License                  |
-| 11 | Repository Code of Conduct filename           | Code of Conduct          |
-| 12 | Repository Security Threat Model filename     | Security Threat Model    |
-| 13 | Repository Security Audit filename            | Security Audit           |
+| No | Attributes                                    | Related Channels         | Rationale
+|---:|-----------------------------------------------|--------------------------|----------------------------
+|  1 | Repository Fork?                              | Fork                     | Project is a copy of another project
+|  2 | Repository Forks Count                        | # of Forks               | Measure of other projects related this project
+|  3 | Repository Issues enabled?                    | Issue Tracker            | Project explicitly states issues in an Issue Tracking System
+|  4 | Repository Wiki enabled?                      | Wiki                     | Knowledge is shared on a Wiki
+|  5 | Repository Pages enabled?                     | GitHub Pages             | Knowledge is shared as a web page
+|  6 | Repository Open Issues Count                  | # of Open Issues         | Measure of developer workloads
+|  7 | Repository Readme filename                    | Readme                   | Knowledge is put on the GitHub front page
+|  8 | Repository Changelog filename                 | Changelog                | Documents all changes to the source code
+|  9 | Repository Contributing guidelines filename   | Contributing Guidelines  | Knowledge is put for newcomers to the project
+| 10 | Repository License filename                   | License                  | Project documents knowledge of licensing
+| 11 | Repository Code of Conduct filename           | Code of Conduct          | Project documents Code of Conduct regulations
+| 12 | Repository Security Threat Model filename     | Security Threat Model    | Projects documents security regulations
+| 13 | Repository Security Audit filename            | Security Audit           | Projects conducts security audits
 
 ## Authors
 * Jirateep Tantisuwankul - Kasetsart University, Thailand
