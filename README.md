@@ -25,7 +25,7 @@ Results show that (i) contemporary GitHub Projects tend to adopt multiple commun
 * `dataset` - a directory of data in a `CSV` format.
 * `figure` - figures of the resulted TDA.
 * `script` - python code run on jupyter notebook.
-* `README.md` - this file
+* `README.md` - this file.
 
 ## How to run
 1. Clone this repository into your userhome folder in the system :
