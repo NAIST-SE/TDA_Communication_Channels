@@ -45,7 +45,7 @@ Results show that (i) contemporary GitHub Projects tend to adopt multiple commun
 ## Documentations
 The information captured from the package of `Projects with related Repository fields`:
 
-| No | Attributes                                    | Related Channels         | Rationale
+| No | Attributes                                    | Related Channels         | Description
 |---:|-----------------------------------------------|--------------------------|----------------------------
 |  1 | Repository Fork?                              | Fork                     | Project is a copy of another project
 |  2 | Repository Forks Count                        | # of Forks               | Measure of other projects related this project
