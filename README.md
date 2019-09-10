@@ -70,4 +70,7 @@ The information captured from the package of `Projects with related Repository f
 * Pattara Leelaprute - Kasetsart University, Thailand
 * Kenichi Matsumoto - Nara Institute of Science and Technology, Japan
 
+## Publication
+Available at: https://doi.org/10.1016/j.jss.2019.110416
+
 Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
